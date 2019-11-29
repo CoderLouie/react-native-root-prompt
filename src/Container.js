@@ -208,7 +208,6 @@ class Container extends Component {
     return null;
   }
   render() {
-    console.log('2', super.state);
     if (!(this.state.visible || this._animating)) return null;
     let { props } = this;
 

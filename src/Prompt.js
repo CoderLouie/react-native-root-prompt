@@ -117,7 +117,6 @@ class Prompt extends Component {
   }
 
   componentWillMount = () => {
-    debugger;
     this._toast = new RootSiblings(<lastComponent
       {...this.props}
       duration={0}
