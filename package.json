@@ -1,0 +1,34 @@
+{
+  "name": "react-native-root-prompt",
+  "version": "1.0.1",
+  "description": "very simple and powerful way to show a prompt in react-native",
+  "main": "./index.js",
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-root-siblings": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "deprecated": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderLouie/react-native-root-prompt.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "react-component",
+    "toast",
+    "tip",
+    "prompt"
+  ],
+  "author": "liyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderLouie/react-native-root-prompt/issues"
+  },
+  "homepage": "https://github.com/CoderLouie/react-native-root-prompt#readme"
+}
